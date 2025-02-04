@@ -1,1 +1,2 @@
-# Netflix-Movie-Data-Analysis
+# Netflix Movie Data Analysis
+This project focuses on analyzing Netflix movie data using Python and various data science techniques. The goal is to extract insights, such as popular genres, highest-rated movies, and trends over the years, using real-world datasets. This project is ideal for data analysts, data scientists, and enthusiasts interested in exploring the entertainment industry's data-driven decisions.
